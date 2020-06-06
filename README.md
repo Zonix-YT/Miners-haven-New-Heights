@@ -9,4 +9,4 @@ MinersHavenNewHeightsWorkingV4.rbxl has got support for you to just copy and pas
 
 You can also start a new modded haven with this!
 
-Youtube tutorial on how to change platform costs and more: Coming soon
+Youtube tutorial on how to change platform costs and more: https://www.youtube.com/playlist?list=PLWSkl7e2lb8KPUIArxrblPumX2qC0bIHh

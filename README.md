@@ -6,7 +6,7 @@ Latest(New/Way Less Buggy): MinersHavenNewHeightsWorkingV4.rbxl
 
 Legacy (Old/Buggy): MinersHavenNewHeightsWorkingV2.rbxl
 
-MinersHavenNewHeightsWorkingV4.rbxl has got support for you to just copy and paste your current modded haven games (if you already have one) to just replace the items folder in this open source with your current (if you have one) modded haven items!
+MinersHavenNewHeightsWorkingV4.rbxl and newer has got support for you to just copy and paste your current modded haven games (if you already have one) to just replace the items folder in this open source with your current (if you have one) modded haven items!
 
 You can also start a new modded haven with this!
 

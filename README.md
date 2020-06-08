@@ -1,7 +1,7 @@
 # Miners-haven-New-Heights
 This is the Miner's Haven open source BUT with working Hydraulics And Platforms!
 
-Latest(New/Way Less Buggy): MinersHavenNewHeightsWorkingV4.rbxl
+Latest(New/Way Less Buggy): MinersHavenNewHeightsWorkingV6.rbxl
 
 Legacy (Old/Buggy): MinersHavenNewHeightsWorkingV2.rbxl
 

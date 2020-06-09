@@ -1,5 +1,0 @@
-MinersHavenNewHeightsWorkingV6.rblx (Version 6) changes:
-Craftsman Ui overhaul! (Like reincarnation)
-Bug fixes! (Masked Man)
-Easily make Masked Man stay everyday!
-Some more things

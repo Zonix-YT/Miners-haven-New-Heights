@@ -13,4 +13,6 @@ Youtube tutorial on how to change platform costs and more: https://www.youtube.c
 
 You do have to make item icons for the platforms and hydraulics!
 
-V8 is the final version and it allows you to add sacrifices without coding and fusions and evos are in the craftsman and are not in rebirths
+V8 and newer allows you to add sacrifices without coding and fusions and evos are in the craftsman and are not in rebirths
+
+V8.1 is the final version and allows you to add NPC's without scripting!

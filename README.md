@@ -1,3 +1,6 @@
+This project is now over, if you would like to see my current and future projects feel free to join the discord!
+https://discord.gg/Byvjpwy
+
 # Miners-haven-New-Heights
 This is the Miner's Haven open source BUT with working Hydraulics And Platforms!
 

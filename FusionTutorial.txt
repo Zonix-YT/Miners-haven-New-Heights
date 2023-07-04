@@ -1,0 +1,11 @@
+For reborn fusions:
+ItemType = 6
+Tier = 31
+New Folder in the item called "FusionCost"
+2 intValues in the "FusionCost" folder and name them the 2 reborn item id's fusion (you can do 3 reborns into one fusion or more!)
+then make the value how ever many of that reborn you want for the fusion!
+done!
+It is now in craftsman and can be crafted!
+
+I am bad at explaining, sorry.
+Regardless, hope this helped. - Zonix

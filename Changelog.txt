@@ -1,0 +1,19 @@
+There is no guarantee this open source may be updated in the future though everything here is all that should be needed to create a modern-MH like mod.
+
+The changes this open source makes:
+1) Minor UI tweaks (Item Selection, Shop, Layouts etc.)	- Changes made in Versions 3, 10 and 10.1
+2) Craftsman now makes Fusions/Evolutions and no longer can be obtained through rebirthing etc.		- Changes made in Version 6
+3) NPCs no longer require scripting to implement (Read NPCs.txt for tutorial)		- Changes made in Version 8
+4) Sacrifices no require scripting to implement (Read SacrificeInfo.txt for tutorial)		- Changes made in Version 9
+5) Many bugs fixed from the base Miners Haven Open Source		- Changes made across All Versions
+6) Obviously, functional Platforms and Hydraulics	- Changes made in Version 1 (Release of this project)
+7) Shard costing shop items support with scaling of prices the more you buy 	- Changes made in Version 4
+8) Code cleanups across the board and improved module loading.		- Changes made in Version 10
+9) Easy to increase/decrease total Layout Slots 		- Changes made in Version 10.1
+10) Easy to increase/decrease total Layout Slot Limit 		- Changes made in Version 10.1
+11) Optimizations to placement and base data loading 		- Changes made in Version 10.1
+12) Item Obtained Notification Stacking 		- Changes made in Version 10.1
+13) Fixed RP 		- Changes made in Version 10.1
+14) Improved MOTD 		- Changes made in Version 10.1
+
+NOTICE: This project was entirely made from the base Miners Haven Open Source and uses no datamined assets, the map used was uploaded and made public by OutOfOrder_Foxy himself, all items in this open source are exact to the ones in the base Miners Haven Open Source and no new items have been added and no items have been removed/replaced.

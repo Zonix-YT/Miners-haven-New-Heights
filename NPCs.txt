@@ -1,5 +1,0 @@
-Duplicate The already existing "NPCname" and change the value to the name of the NPC!
-
-Then the value in that called "GuiName" can be changed to GUI name you want for that NPC!
-
-YOU MUST HAVE THE VALUES SPELLED THE EXACT SAME WAY AS THE NAMES!
